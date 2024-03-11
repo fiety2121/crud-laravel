@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <meta>
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Inscription</h1>
+    </body>
+</html>
